@@ -41,3 +41,6 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
+# swagger url
+http://localhost:3000/api/
+
